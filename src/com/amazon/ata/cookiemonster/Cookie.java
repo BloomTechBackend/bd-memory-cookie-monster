@@ -1,3 +1,5 @@
+package com.amazon.ata.cookiemonster;
+
 class Cookie {
     private String cookieType;
     private int nomCount;
